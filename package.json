@@ -27,5 +27,8 @@
     "node-jsencrypt": "^1.0.0",
     "qs": "^6.11.0",
     "zlib": "^1.0.5"
+  },
+  "overrides": {
+    "quantize": "npm:quantize@^1.0.3"
   }
 }
